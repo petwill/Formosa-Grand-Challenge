@@ -1,4 +1,6 @@
 # Formosa-Grand-Challenge
-Code of Formosa Speech Grand Challenge - Talk to AI Warm-Up Match / 2017
+Code of [Formosa Speech Grand Challenge - Talk to AI Warm-Up Match](https://fgc.stpi.narl.org.tw/index) / 2017
 
 Collaboration with https://github.com/Daikon-Sun and https://github.com/raywu0123
+
+This repository contains implementation of [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627).
