@@ -5,8 +5,8 @@ Collaboration with [Daikon-Sun](https://github.com/Daikon-Sun) and [Ray-Wu](http
 
 Three methods are ensembled to perform Response Selection (in Chinese):
 
-* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627) (implemented in Tensorflow).
+* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627), implemented in Tensorflow (refer to `SMN/`).
 
 * RNN encoder model (not present in this repo)
 
-* simple averaging of word vectors (`avg_wordvec.py`)
+* simple averaging of word vectors (refer to `avg_wordvec.py`)
