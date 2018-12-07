@@ -3,4 +3,10 @@ Code of [Formosa Speech Grand Challenge - Talk to AI Warm-Up Match](https://fgc.
 
 Collaboration with [Daikon-Sun](https://github.com/Daikon-Sun) and [Ray-Wu](https://github.com/raywu0123)
 
-This repository contains tensorflow implementation of [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627).
+Three methods are ensembled to perform Response Selection (in Chinese):
+
+* [Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-based Chatbots](https://arxiv.org/abs/1612.01627) (implemented in Tensorflow).
+
+* RNN encoder model (not present in this repo)
+
+* simple averaging of word vectors (`avg_wordvec.py`)
